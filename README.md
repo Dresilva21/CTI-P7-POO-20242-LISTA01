@@ -1,2 +1,2 @@
 # CTI-P7-POO-20242-LISTA01
-Neste repositório você terá acesso a resolução dos exercícios do Capítulo 03 do (Livro), da matéria de Programação orientada a objeto (POO). 
+Neste repositório você terá acesso a resolução dos exercícios do Capítulo 03 do (Livro), da matéria de Programação orientada a objeto (POO). Sendo utilizado a linguagem de programação java e a IDE eclipse como ambiente de trabalho, todos os exercicios dentro desse repositorio são reposta das questões com passo a passo do capitulo 3 do livro fundamentos da programação de computares.
